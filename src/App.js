@@ -13,6 +13,11 @@ class App extends Component {
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
+        <footer className="App-footer">
+            <p>
+                Loftschool
+            </p>
+        </footer>
       </div>
     );
   }
