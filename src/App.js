@@ -14,9 +14,7 @@ class App extends Component {
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
         <footer className="App-footer">
-            <p>
-                Loftschool
-            </p>
+          <p>Loftschool</p>
         </footer>
       </div>
     );
